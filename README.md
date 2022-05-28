@@ -32,7 +32,7 @@ I'm Shahriar! A passionate Mern Stack Develope from Bangladesh. and I do web dev
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen)   -->
 
-[![shahriyarhosen's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![shahriyarhosen's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
 
