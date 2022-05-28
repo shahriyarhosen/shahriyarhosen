@@ -28,7 +28,7 @@ I'm Shahriar! A passionate Mern Stack Develope from Bangladesh. and I do web dev
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamehanik" height="30" width="40" /></a>
 </p>
 
-<br><br><h1></h1>
+<h1></h1>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen)  
 
