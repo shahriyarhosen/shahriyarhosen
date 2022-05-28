@@ -13,7 +13,6 @@ I'm Shahriar! A passionate Mern Stack Develope from Bangladesh. and I do web dev
 - 🤔 I’m looking for help with To increase efficiency 
 - 📫 How to reach me: shahriyarhossen513@gmail.com 
 
-<br><br>
 
 ![Profile views](https://gpvc.arturio.dev/shahriyarhosen)
 
