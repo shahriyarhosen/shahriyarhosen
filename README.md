@@ -1,6 +1,7 @@
+![I'm Hard Worker Web Developer.](https://i.ibb.co/9pNj7M3/coding.gif)
 ### Hi there 👋, my name is Shahriyar Hosen
 #### I'm Hard Worker Web Developer.
-![I'm Hard Worker Web Developer.](https://i.ibb.co/9pNj7M3/coding.gif)
+
 
 I am Shahriar from Bangladesh. and I do web development. I'm Hard Worker Web Developer. I really enjoy learning language and Frameworks like react. At the beginning of each project, my goal is to finish the work on time and do everything with maximum effort.
 
