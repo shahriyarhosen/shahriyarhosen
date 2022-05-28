@@ -48,14 +48,3 @@ I'm Shahriar! A passionate Mern Stack Develope from Bangladesh. and I do web dev
      </tr>
    </table>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahriyarhosen)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/shahriyarhosen)  
-
-
-
-
