@@ -1,5 +1,4 @@
 <p align="center" ><img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="1000" height="320" /></p>
-![I'm Hard Worker Web Developer.]()
 ### Hi there 👋, my name is Shahriyar Hosen
 #### I'm Hard Worker Web Developer.
 
