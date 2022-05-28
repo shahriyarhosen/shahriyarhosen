@@ -30,7 +30,9 @@ I'm Shahriar! A passionate Mern Stack Develope from Bangladesh. and I do web dev
 
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahriyarhosen)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen)  
+
+<br><br>
 
 <p align="center">
    <table>
@@ -45,16 +47,12 @@ I'm Shahriar! A passionate Mern Stack Develope from Bangladesh. and I do web dev
    </table>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahriyarhosen)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyarhosen)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriyarhosen&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen)  
 
 ![GitHub metrics](https://metrics.lecoq.io/shahriyarhosen)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahriyarhosen)  
 
 ![Profile views](https://gpvc.arturio.dev/shahriyarhosen)  
 
