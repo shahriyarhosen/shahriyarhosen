@@ -1,9 +1,9 @@
 <p align="center" ><img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="1000" height="320" /></p>
-### Hi there 👋, my name is Shahriyar Hosen
-#### I'm Hard Worker Web Developer.
+<h1 align="center">Hi 👋, my name is Shahriyar Hosen</h1>
+<h3 align="center">I'm Hard Worker Web Developer.</h3>
 
 
-I am Shahriar from Bangladesh. and I do web development. I'm Hard Worker Web Developer. I really enjoy learning language and Frameworks like react. At the beginning of each project, my goal is to finish the work on time and do everything with maximum effort.
+I'm Shahriar! A passionate Mern Stack Develope from Bangladesh. and I do web development. I'm Hard Worker Web Developer. I really enjoy learning language and Frameworks like react. At the beginning of each project, my goal is to finish the work on time and do everything with maximum effort.
 
 Skills:  HTML / CSS / Tailwind / Bootstrap / JS / REACT  / React Query / React Routers / Firebase/ Node / MongoDB / Atlas / Axios
 
