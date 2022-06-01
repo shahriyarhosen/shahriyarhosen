@@ -6,7 +6,7 @@
 I'm Shahriar! A passionate Mern Stack Develope from Bangladesh. and I do web development. I'm Hard Worker Web Developer. I really enjoy learning language and Frameworks like react. At the beginning of each project, my goal is to finish the work on time and do everything with maximum effort.
 
 
-<img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
+<div><img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/></div>
 
 - 🔭 I’m currently working on Programming Hero 
 - 🌱 I’m currently learning React js 
