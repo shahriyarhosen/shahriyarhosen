@@ -3,7 +3,7 @@
 <h3 align="center">I'm Hard Worker Web Developer.</h3>
 
 
-I'm Shahriar! A passionate Mern Stack Develope from Bangladesh. and I do web development. I'm Hard Worker Web Developer. I really enjoy learning language and Frameworks like react. At the beginning of each project, my goal is to finish the work on time and do everything with maximum effort.
+I'm Shahriar! A passionate MERN-STACK WEB DEVELOPER from Bangladesh. and I do web development. I'm Hard Worker Web Developer. I really enjoy learning language and Frameworks like react. At the beginning of each project, my goal is to finish the work on time and do everything with maximum effort.
 
 
 - 🔭 I’m currently working on Programming Hero 
