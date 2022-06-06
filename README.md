@@ -1,5 +1,5 @@
 <p align="center" ><img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="1000" height="320" /></p>
-<h1 align="center">Hi 👋, my name is Shahriyar Hosen</h1>
+<h1 align="center">Hi 👋, My Name is Shahriyar Hosen</h1>
 <h3 align="center">I'm Hard Worker Web Developer.</h3>
 
 
