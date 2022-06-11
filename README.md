@@ -36,7 +36,7 @@ I'm Shahriar Hossain. A hard-working Marn-Stack web developer from Bangladesh. I
 [![shahriyarhosen's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriyarhosen&show_icons=true&locale=en&layout=compact" alt="shahriyarhosen" /></p>
+
 <p align="center">
    <table>
    <h1 align="center">Github Stats</h1>
