@@ -26,7 +26,7 @@ I'm Shahriar Hossain. A hard-working Marn-Stack web developer from Bangladesh. I
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamehanik" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriyarhosen&show_icons=true&locale=en&layout=compact" alt="shahriyarhosen" /></p>
+
 <h1></h1>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen)   -->
@@ -36,12 +36,12 @@ I'm Shahriar Hossain. A hard-working Marn-Stack web developer from Bangladesh. I
 [![shahriyarhosen's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriyarhosen&show_icons=true&locale=en&layout=compact" alt="shahriyarhosen" /></p>
 <p align="center">
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><img alt="shahriyarhosen :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=shahriyarhosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="shahriyarhosen :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=shahriyarhosen&theme=blue-green&amp;show_icons=true&amp;count_private=false&amp;hide_border=true" /></td>
        <td><img alt="shahriyarhosen :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyarhosen&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
      <tr>
