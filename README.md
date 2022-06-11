@@ -26,7 +26,7 @@ I'm Shahriar Hossain. A hard-working Marn-Stack web developer from Bangladesh. I
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamehanik" height="30" width="40" /></a>
 </p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriyarhosen&show_icons=true&locale=en&layout=compact" alt="shahriyarhosen" /></p>
 <h1></h1>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriyarhosen)   -->
