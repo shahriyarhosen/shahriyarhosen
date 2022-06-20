@@ -6,7 +6,7 @@
 I'm Shahriar Hossain. A hard-working Marn-Stack web developer from Bangladesh. I usually create applications with react.js. With the importance of UI/UX in each project Before I start any project, my goal is to finish the job on time and do my best to get the job done beautifully.
 
 
-- 🔭 I’m currently working on Programming Hero 
+<!-- - 🔭 I’m currently working on Programming Hero  -->
 - 🌱 I’m currently learning React js 
 - 🤔 I’m looking for help with To increase efficiency 
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
