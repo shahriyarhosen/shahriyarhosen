@@ -3,7 +3,7 @@
 <h3 align="center">I'm Hard Worker Web Developer.</h3>
 
 
-I'm Shahriar Hossain. A hard-working Marn-Stack web developer from Bangladesh. I usually create applications with react.js. With the importance of UI/UX in each project Before I start any project, my goal is to finish the job on time and do my best to get the job done beautifully.
+I'm Shahriar Hossain. A hard-working MARN Stack web developer from Bangladesh. I usually create applications with react.js. With the importance of UI/UX in each project Before I start any project, my goal is to finish the job on time and do my best to get the job done beautifully.
 
 
 <!-- - 🔭 I’m currently working on Programming Hero  -->
