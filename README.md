@@ -1,6 +1,6 @@
 <p align="center" ><img alt="computer coding a men" src="https://i.ibb.co/9pNj7M3/coding.gif" width="1000" height="320" /></p>
 <h1 align="center">Hi 👋, My Name is Shahriyar Hosen</h1>
-<h3 align="center">I'm Hard Worker Web Developer.</h3>
+<h3 align="center">I'm Front End Developer.</h3>
 
 
 I'm Shahriar Hossain. A hard-working MARN Stack web developer from Bangladesh. I usually create applications with react.js. With the importance of UI/UX in each project Before I start any project, my goal is to finish the job on time and do my best to get the job done beautifully.
