@@ -7,7 +7,7 @@ I'm Shahriar Hossain. A hard-working MARN Stack web developer from Bangladesh. I
 
 
 <!-- - 🔭 I’m currently working on Programming Hero  -->
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning React js & JavaScript
 - 🤔 I’m looking for help with To increase efficiency 
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
 
