@@ -5,6 +5,7 @@
 
 I'm Shahriar Hossain. A hard-working MARN Stack web developer from Bangladesh. I usually create applications with react.js. With the importance of UI/UX in each project Before I start any project, my goal is to finish the job on time and do my best to get the job done beautifully.
 
+[![Github](https://img.shields.io/github/followers/shahriyarhosen?label=Follow&style=social)](https://github.com/shahriyarhosen)&nbsp;![Profile views](https://gpvc.arturio.dev/shahriyarhosen)
 
 - 🕵️‍♂️ My portfolio: https://shahriyar-hosen.web.app/
 - 🌱 I’m currently learning React js & JavaScript
